@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+select {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  color: #333;
+  width: 150px;
+  height: 30px;
+  border: 1px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("path/to/arrow.png");
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
